@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JAIGOA.aternos.me",
+    "ip": "jaigoa.aternos.me",
     "port": 18338,
     "version": "",
     "try-creative": false
